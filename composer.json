@@ -16,6 +16,6 @@
     "require": {
         "livewire/livewire": "^3.0"
     },
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
