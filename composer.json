@@ -1,0 +1,20 @@
+{
+    "name": "cesarferreira/encrypt-wire-events",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CesarFerreira\\EncryptWireEvents\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "César Ferreira",
+            "email": "cesarferreiraa67@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "livewire/livewire": "^3.0"
+    }
+}
